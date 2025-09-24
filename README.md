@@ -1,7 +1,7 @@
 # Hospital Management System
 Hospital Management System using MySQL, Php and Bootstrap
 
-Live Demo : [Hospital Management System - 000webhost by Kishan](https://sujalmehta.000webhostapp.com)
+Live Demo : [Hospital Management System - 000webhost by sujal](https://sujalmehta.000webhostapp.com)
 
 ## Need to work on:
 
